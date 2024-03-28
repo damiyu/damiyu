@@ -1,15 +1,11 @@
 # About Me
 
-Hey there, welcome to my GitHub page. I'm a junior studying Computer Science at the University of California, San Diego. I enjoy hiking and playing chess in my free time. I also enjoy solving simple coding exercises and backend development.
+Hey, welcome to my GitHub page. I am a Computer Science senior at the University of California, San Diego. I enjoy playing chess and hiking in my free time. I also like solving exercises on [LeetCode](https://leetcode.com/bitsforbasics/). You can read more about me and my projects on my portfolio [website](https://darrenyu.net/).
 
-<h3>Primary Programming Languages</h3>
-<ol>
-    <li> Java
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="15" height="15"/> </li>
-    <li> Python
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> </li>
-    <li> JavaScript
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/> </li>
-    <li> C
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="15" height="15"/> </li>
-</ol>
+### Primary Programming Languages
+
+1. <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="25">
+2. <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="25">
+3. <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="25">
+4. <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" height="25">
+5. <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="25">
