@@ -1,6 +1,6 @@
 # About Me
 
-I love [LeetCode](https://leetcode.com/bitsforbasics/) ❤️
+I like eating pizza and coding.
 
 ### Primary Programming Languages
 
